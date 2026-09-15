@@ -1,9 +1,9 @@
-### Olá, meu nome é Lilian Megale!
+### Hello, my name is Lilian Megale!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LILIAN&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Estudante apaixonada por programação e tecnologia!
-🚀 Sempre buscando aprender e desenvolver novos projetos </p>
+<p> A passionate student with a love for computing and technology!
+🚀 Always looking to learn and develop new projects </p>
 
 
 <div style="display: inline_block"><br>
